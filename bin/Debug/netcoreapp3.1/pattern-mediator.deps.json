@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pattern-mediator/1.0.0": {
+        "runtime": {
+          "pattern-mediator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pattern-mediator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\projects\dotnet\pattern-mediator\bin\Debug\netcoreapp3.1\pattern-mediator.exe
+C:\projects\dotnet\pattern-mediator\bin\Debug\netcoreapp3.1\pattern-mediator.deps.json
+C:\projects\dotnet\pattern-mediator\bin\Debug\netcoreapp3.1\pattern-mediator.runtimeconfig.json
+C:\projects\dotnet\pattern-mediator\bin\Debug\netcoreapp3.1\pattern-mediator.runtimeconfig.dev.json
+C:\projects\dotnet\pattern-mediator\bin\Debug\netcoreapp3.1\pattern-mediator.dll
+C:\projects\dotnet\pattern-mediator\bin\Debug\netcoreapp3.1\pattern-mediator.pdb
+C:\projects\dotnet\pattern-mediator\obj\Debug\netcoreapp3.1\pattern-mediator.csprojAssemblyReference.cache
+C:\projects\dotnet\pattern-mediator\obj\Debug\netcoreapp3.1\pattern-mediator.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\pattern-mediator\obj\Debug\netcoreapp3.1\pattern-mediator.AssemblyInfoInputs.cache
+C:\projects\dotnet\pattern-mediator\obj\Debug\netcoreapp3.1\pattern-mediator.AssemblyInfo.cs
+C:\projects\dotnet\pattern-mediator\obj\Debug\netcoreapp3.1\pattern-mediator.dll
+C:\projects\dotnet\pattern-mediator\obj\Debug\netcoreapp3.1\pattern-mediator.pdb
+C:\projects\dotnet\pattern-mediator\obj\Debug\netcoreapp3.1\pattern-mediator.genruntimeconfig.cache
