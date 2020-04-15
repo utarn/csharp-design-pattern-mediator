@@ -1,8 +1,9 @@
 namespace pattern_mediator
 {
-    public class Button
+    public class Button : UIControl
     {
         private bool _isEnabled;
+
         public bool IsEnabled
         {
             get
@@ -12,6 +13,7 @@ namespace pattern_mediator
             set
             {
                 _isEnabled = value;
+                NotifyEventHandlers();
             }
         }
     }

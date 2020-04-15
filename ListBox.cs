@@ -1,8 +1,9 @@
 namespace pattern_mediator
 {
-    public class ListBox
+    public class ListBox : UIControl
     {
         private string _selection;
+
         public string Selection
         {
             get
@@ -12,6 +13,7 @@ namespace pattern_mediator
             set
             {
                 _selection = value;
+                NotifyEventHandlers();
             }
         }
     }

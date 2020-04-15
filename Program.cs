@@ -8,6 +8,8 @@ namespace pattern_mediator
         {
             // Create an article dialog
             // Simulate changes        
+            var articleDialog = new ArticleDialogBox();
+            articleDialog.SimulateChanges();
         }
     }
 }
